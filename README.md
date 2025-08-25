@@ -4,7 +4,7 @@ This repository contains my initial mini projects built while learning React. Th
 
 ## Projects Included
 
-### 1. Counter Button
+### 1. Counter App
 - **Description:** A simple counter app where clicking the button increments the counter value.
 - **Concepts Used:**
   - useState hook for managing counter state.
