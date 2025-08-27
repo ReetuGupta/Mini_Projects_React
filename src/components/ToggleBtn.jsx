@@ -1,4 +1,6 @@
 import { useState } from "react";
+import { IoMoon } from "react-icons/io5";
+import { FiSun } from "react-icons/fi";
 
 export default function ToggleBtn() {
   const [isOn, setIsOn] = useState(false);
@@ -21,7 +23,7 @@ export default function ToggleBtn() {
           }`}
         >
           <p className="text-black text-center font-semibold aspect-square w-full">
-            {isOn ? "ON" : "OFF"}
+            {isOn ? <FiSun className="text-2xl"/> : <IoMoon className="text-2xl"/>}
           </p>
         </div>
       </div>
