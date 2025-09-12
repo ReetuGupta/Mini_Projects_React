@@ -35,7 +35,7 @@ This repository contains my initial mini projects built while learning React. Th
   - Provides notification settings through checkboxes and radio buttons.
   - Styled with Tailwind CSS for a clean and responsive UI.
 
-- 🌐 [Live Demo]()
+- 🌐 [Live Demo](https://react-form-reetu.netlify.app/)
 
 ## Tech Stack
 - **React.js** (functional components)
