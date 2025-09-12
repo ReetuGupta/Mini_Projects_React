@@ -23,6 +23,20 @@ This repository contains my initial mini projects built while learning React. Th
   - Toggle between two text states.
   - Demonstrates state update and re-rendering.
 
+### 3. React Form
+- **Description:** A complete form handling project that covers multiple input types including text fields, email, select menus, checkboxes, and radio buttons.
+- **Concepts Used:**
+  - useState hook for managing complex form state with a single object.
+  - Handling text inputs, checkboxes, radio buttons, and dropdown selections.
+  - Controlled components and dynamic state updates.
+  - Form submission handling and event prevention.
+- **Features:**
+  - Collects user details like name, address, email, and preferences.
+  - Provides notification settings through checkboxes and radio buttons.
+  - Styled with Tailwind CSS for a clean and responsive UI.
+
+- 🌐 [Live Demo]()
+
 ## Tech Stack
 - **React.js** (functional components)
 - **JavaScript (ES6+)**
